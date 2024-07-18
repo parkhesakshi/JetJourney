@@ -15,7 +15,7 @@ A Node.js-based flight booking system with CRUD operations, real-time updates us
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/parkhesakshi/Flight_Booking_Backend.git
+   git clone https://github.com/parkhesakshi/JetJourney.git
    cd flight-booking-system
 
 2. Install dependencies:
